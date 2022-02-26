@@ -1,4 +1,4 @@
-.part1
+h2
 {
 	color:red;
 	display : inline;
@@ -6,7 +6,37 @@
 
 .myclass
 {
-	background-color: white;
-	color: black;
-	display: inline;
+	background-color: black;
+	color: white;
+	display : block;
+	width: 300px;
+
+}
+
+.myclass1
+{
+	color:green;	
+}
+
+.myclass2
+{
+    background-color: darkred;
+	color: green;
+	display : block;
+	width: 300px;
+}
+
+p
+{
+	color:green;	
+}
+
+.myclass3
+{
+	color:black;
+}
+
+.myclass4
+{
+	color: pink;
 }
