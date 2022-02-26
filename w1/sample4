@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title> CSYM037 – Research Project </title>
+<style>
+    h1 {text-align: center;}
+</style>
+<meta charset="UTF-8" />
+</head>
+<body>
+    <h1>Research Project</h1>
+    <p> The purpose of the Research Project is to contribute to the training for the undertaking of the Placement. Students are therefore required to demonstrate competence in undertaking a postgraduate level research project focused around key issues and trends within a sector of their discipline.
+    </p>
+    <ul>
+    <li> Field: Computer Systems</li>
+    <li> Level: MSc</li>
+    <li> Lecturer: Amir Minai</li>
+    <li> Day: Wednesday</li>
+    <li> Time: 2:00</li>
+    </ul>
+</body>
+</html>
